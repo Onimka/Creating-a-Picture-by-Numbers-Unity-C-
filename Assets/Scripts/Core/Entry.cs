@@ -7,6 +7,7 @@ namespace PictureGenerator
     {
         [SerializeField] private GameObject _screen;
         [SerializeField] private GameObject _mainView;
+        [SerializeField] private GameObject _pictureOverlay;
         [SerializeField] private Config _config;
       
 
@@ -16,6 +17,8 @@ namespace PictureGenerator
             ServiceLocator.Register(_config);
             var screen = Instantiate(_screen);
             Instantiate(_mainView, screen.transform);
+            var overlay = Instantiate(_pictureOverlay).GetComponent<PictureOverlay>();
+            overlay.Init();
         }
     }
 }
