@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a02306ebfbeecb34cae5d13bc3fb4c2d, type: 3}
+  m_Name: Config
+  m_EditorClassIdentifier: 
+  <ColorPreset>k__BackingField: {fileID: 2153940293748929453, guid: 67311f71f191f12449c278da3d362f6e, type: 3}
+  <Fonts>k__BackingField:
+  - <Number>k__BackingField: 48
+    <Texture>k__BackingField: {fileID: 2800000, guid: feac1f8c1eefd1440b76555aee061a02, type: 3}
+  - <Number>k__BackingField: 49
+    <Texture>k__BackingField: {fileID: 2800000, guid: 601830cf1ba12d146aa9e42c933a613e, type: 3}
+  - <Number>k__BackingField: 50
+    <Texture>k__BackingField: {fileID: 2800000, guid: 9374bf46b2e7dd04a82aad3dad1c05e7, type: 3}
+  - <Number>k__BackingField: 51
+    <Texture>k__BackingField: {fileID: 2800000, guid: c6706302fbb791a4980de9facd9b4420, type: 3}
+  - <Number>k__BackingField: 52
+    <Texture>k__BackingField: {fileID: 2800000, guid: 1b691e602430eda4e8b60b544d6fc95c, type: 3}
+  - <Number>k__BackingField: 53
+    <Texture>k__BackingField: {fileID: 2800000, guid: 7fab0be0ee8f5ea45a4dfa79dfb046ff, type: 3}
+  - <Number>k__BackingField: 54
+    <Texture>k__BackingField: {fileID: 2800000, guid: eb1248002281130449ed97399ddb8abf, type: 3}
+  - <Number>k__BackingField: 55
+    <Texture>k__BackingField: {fileID: 2800000, guid: e75662034bb6aef40bbee83c7a540c4f, type: 3}
+  - <Number>k__BackingField: 56
+    <Texture>k__BackingField: {fileID: 2800000, guid: 5a258efe942670548a2e2e801fae6d8f, type: 3}
+  - <Number>k__BackingField: 57
+    <Texture>k__BackingField: {fileID: 2800000, guid: a3c26aebde840bb4d826e1e53e1b7e05, type: 3}
