@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/c6347490-39be-429e-ad6e-c7d9c18e3a5e)
+
 ▎Numbered Coloring Application
 
 This application allows users to create numbered coloring pages from photographs and images.
